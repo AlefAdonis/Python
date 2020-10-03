@@ -1,4 +1,4 @@
-""" The number is even """
+"""  The number is even  """
 
 
 def even(number=0):
